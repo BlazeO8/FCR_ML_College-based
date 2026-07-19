@@ -4,7 +4,7 @@ A Streamlit web app that predicts the species of an **Iris flower** using six di
 
 ## 🔗 Live Demo
 
-[iitmflowerclassificationproject-blazeo8.streamlit.app](https://iitmflowerclassificationproject-blazeo8.streamlit.app)
+[fcr-ml-collegebased-blazeo8.streamlit.app](https://fcr-ml-collegebased-blazeo8.streamlit.app/)
 
 ## 🧠 Models Used
 
